@@ -1,0 +1,4 @@
+cout<<"Add two number"<<a+b;
+cout<<endl;
+
+
